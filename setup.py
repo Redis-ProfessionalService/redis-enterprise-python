@@ -65,7 +65,7 @@ The following are common responses which may be returned in some cases regardles
 from setuptools import setup, find_packages  # noqa: H301
 
 NAME = "redis-enterprise-python"
-VERSION = "1.0.3"
+VERSION = "1.0.4"
 # To install the library, run the following
 #
 # python setup.py install
